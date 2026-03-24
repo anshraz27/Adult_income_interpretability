@@ -24,3 +24,5 @@ dist/
 
 # VS Code
 .vscode/
+#data
+data/
